@@ -5,10 +5,10 @@
  1234 */
  
 #include<stdio.h>  // Declaration of the standard input/ output header file for the C program.
-int main()
+int main()  // Main or Startup function for the C program.
 {
-	int row,col,space;
-	for(row=1;row<=4;row++)
+	int row,col,space;  // Declaration of the variables for the C program.
+	for(row=1;row<=4;row++) 
 	{
 		for(space=1;space<=(4-row);space++)
 		{
@@ -20,6 +20,6 @@ int main()
 		}
 		printf("\n");
 	}
-	return 0;
+	return 0;  // Returning the integer value 0, after the end of the execution of the Main function or the program.
 }
  
