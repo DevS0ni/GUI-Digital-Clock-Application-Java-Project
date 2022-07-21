@@ -4,7 +4,7 @@
   123
  1234 */
  
-#include<stdio.h>
+#include<stdio.h>  // Declaration of the standard input/ output header file for the C program.
 int main()
 {
 	int row,col,space;
