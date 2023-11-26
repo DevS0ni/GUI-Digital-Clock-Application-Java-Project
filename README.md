@@ -1,4 +1,6 @@
 # GUI Digital Clock Application (JAVA Project)
+
+# Project Description
 ```
 * The project is a basic digital clock application that utilizes Java's Swing library
   to create a graphical user interface.
