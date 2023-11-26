@@ -11,3 +11,20 @@
 * The clock is displayed within a JFrame (window). The clock is presented in a standalone
   window with a specific size and position on the screen.
 ```
+
+*Technologies & Tools Used for the Project*
+```
+- Microsoft Visual Studio (Windows)
+- VS Code (Windows & Mac OSX)
+- NetBeans Java IDE
+```
+
+*Academic Honesty/ Integrity Statement*
+```
+I declare that the code in this repository is entirely my own work.
+
+NOTE: For others, this repo can be a good reference, if someone wants to learn &
+understand the aspects of C programming and it's topic but must not copy the
+work completed by me!
+```
+
